@@ -1,5 +1,5 @@
 {
-  "name": "vite-config-tsx",
+  "name": "vite-react-ts-skeleton",
   "private": true,
   "version": "0.0.0",
   "type": "module",
